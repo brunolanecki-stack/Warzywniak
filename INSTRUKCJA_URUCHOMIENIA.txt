@@ -1,0 +1,17 @@
+SKLEP WARZYWNICZY - sprawdzian HTML
+Autor: Bruno Łanecki, grupa 2, numer w dzienniku 12
+
+Aby uruchomić stronę, kliknij dwa razy plik index.html.
+Wszystkie pliki HTML, zdjęcia i grafiki powinny zostać w jednym folderze.
+
+Strona główna: index.html
+Strona menu: menu_lanecki.html
+Formularz: formularz_lanecki.html
+Tabela: tabela_lanecki.html
+Poczta: poczta_lanecki.html
+
+W poczcie kliknięcie grafiki otwiera stronę tworzenia wiadomości w Outlook.
+Korzystanie z Outlook wymaga zalogowanego konta Microsoft / szkolnego.
+Drugi link pocztowy działa z programem pocztowym ustawionym jako domyślny.
+
+Kolor tła poszczególnych stron jest różny. Zdjęcie w tle jest na stronie menu.
